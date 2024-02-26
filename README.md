@@ -10,3 +10,6 @@ mas aprendi também a jogar futebol ⚽, tênis 🎾, natação 🏊‍♂️, e
 👨‍💻Cursando Técnico em Desenvolvimento de Sistemas pelo SENAI na Usina Alta Mogiana 
   <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyYM_Llke9B05CW72EX8KJQ22yAT7Psp6pqDgob-Zmig&s", width = 20px, height = 20px>
 </div>
+<div>
+  
+</div>
