@@ -30,3 +30,5 @@ mas aprendi também a jogar futebol ⚽, tênis 🎾, natação 🏊‍♂️, e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width = 50px, height = 50px />
                   
 </div>
+
+ ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
