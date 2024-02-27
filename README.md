@@ -6,8 +6,8 @@ Bem Vindo ao meu perfil do GitHub :blush:
 
 <div>
 <a href="https://github.com/Felps-Santos">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felps-Santos&layout=compact&langs_count=7&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Felps-Santos&layout=compact&langs_count=7&hide=contribs,issues&theme=radical"/>
+  <img width="400px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felps-Santos&layout=compact&langs_count=7&theme=radical"/>
+  <img width="400px" height="250px" src="https://github-readme-stats.vercel.app/api?username=Felps-Santos&layout=compact&langs_count=7&hide=contribs,issues&theme=radical"/>
 
 </div>
 
