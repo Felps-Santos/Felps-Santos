@@ -2,9 +2,7 @@
 Bem Vindo ao meu perfil do GitHub :blush:
 
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felps-Santos&show_icons=true&theme=radical)
 
 
 <h2>Sobre mim</h2>
