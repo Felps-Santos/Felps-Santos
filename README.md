@@ -3,8 +3,10 @@
           
 </div>
 Bem Vindo ao meu perfil do GitHub :blush:
-
+<div href = "">
   <img src="https://github-readme-stats.vercel.app/api?username=Felps-Santos&layout=compact&langs_count=7&hide=contribs,issues&theme=radical"/>
+          
+</div>
 
 <h2>Sobre mim</h2>
 Tenho 16 anos e uma namorada incrível, gosto de praticar esportes, sendo atualmente o vôlei 🏐,
