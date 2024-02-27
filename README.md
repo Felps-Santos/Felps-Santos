@@ -4,7 +4,12 @@
 </div>
 Bem Vindo ao meu perfil do GitHub :blush:
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felps-Santos&show_icons=true&theme=radical)
+<div>
+<a href="https://github.com/Felps-Santos">
+  <img loading="lazy" height = 150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felps-Santos&layout=compact&langs_count=7&theme=radical"/>
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Felps-Santos&layout=compact&langs_count=7&hide=contribs,issues&theme=radical"/>
+
+</div>
 
 <h2>Sobre mim</h2>
 Tenho 16 anos e uma namorada incrível, gosto de praticar esportes, sendo atualmente o vôlei 🏐,
