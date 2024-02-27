@@ -4,7 +4,7 @@
 </div>
 Bem Vindo ao meu perfil do GitHub :blush:
 
-  <img width="300px" height="300px" src="https://github-readme-stats.vercel.app/api?username=Felps-Santos&layout=compact&langs_count=7&hide=contribs,issues&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Felps-Santos&layout=compact&langs_count=7&hide=contribs,issues&theme=radical"/>
 
 <h2>Sobre mim</h2>
 Tenho 16 anos e uma namorada incrível, gosto de praticar esportes, sendo atualmente o vôlei 🏐,
