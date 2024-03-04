@@ -4,8 +4,8 @@
 </div>
 Bem Vindo ao meu perfil do GitHub :blush:
 <div>
-  <img loading="lazy" height="150em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felps-Santos&layout=compact&langs_count=7&theme=radical"/>
-  <img loading="lazy" height="150em" width="180em" src="https://github-readme-stats.vercel.app/api?username=Felps-Santos&layout=compact&langs_count=7&hide=contribs,issues&theme=radical"/>
+  <img loading="lazy" height="150em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felps-Santos&layout=compact&langs_count=7&theme=radical"/>
+  <img loading="lazy" height="150em" width="200em" src="https://github-readme-stats.vercel.app/api?username=Felps-Santos&layout=compact&langs_count=7&hide=contribs,issues&theme=radical"/>
           
 </div>
 
