@@ -15,23 +15,44 @@ mas aprendi também a jogar futebol ⚽, tênis 🎾, natação 🏊‍♂️, e
 
 <h2>Educação</h2>
 <div>
-👨‍💻Cursando Técnico em Desenvolvimento de Sistemas pelo SENAI na Usina Alta Mogiana 
-  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyYM_Llke9B05CW72EX8KJQ22yAT7Psp6pqDgob-Zmig&s", width = 20px, height = 20px>
+  <span>Aprendiz em Desenvolvimento de Sistemas pelo SENAI na Usina Alta Mogiana</span>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyYM_Llke9B05CW72EX8KJQ22yAT7Psp6pqDgob-Zmig&s" width="30px" height="30px">
+</div>
+<div>
+  <span>Bacharelado em Engenharia De Software na Uni-FACEF de Franca, SP</span>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7u9glBNq-quYU6oLVB1GQmzCx_YLp6IeAw&s" width="30px" height="30px">
 </div>
 
-<h2>Ainda aprendendo:</h2>
+
+<h2>Aprimorando meus conhecimentos em:</h2>
+
+<!-- Front-end -->
+<h3>Front-end</h3>
 <div>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = 50px, height = 50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = 50px, height = 50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = 50px, height = 50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width = 50px, height = 50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width = 50px, height = 50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width = 50px, height = 50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width = 50px, height = 50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width = 50px, height = 50px />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width = 50px, height = 50px />
-                  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px" height="50px" />
 </div>
+
+<!-- Back-end -->
+<h3>Back-end</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" />
+</div>
+
+<!-- Frameworks / Ferramentas -->
+<h3>Frameworks / Ferramentas</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50px" height="50px" />
+</div>
+
+<h1></h1>
 
  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
